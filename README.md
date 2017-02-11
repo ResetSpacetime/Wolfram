@@ -4,6 +4,7 @@ Learning Wolfram Programming and Mathmetica
 Wolfram 和 MMA
 
 - Mathmetica 公众号 @Mathematica_李想
+- 可以和 John老师： @管宁川John 或是 John老师的外挂： @红薯 交流
 - [课程](http://www.makercollider.com/course)
   - 这里面点wolfram book的标签，就能筛出各种我们做的相关的入门视频
 - [机智的MMA | 改变世界不是他的梦想，他是来改变宇宙的](https://mp.weixin.qq.com/s?__biz=MzAwNjIzMzczMg==&mid=2650499057&idx=1&sn=9d05c6a1096e490733a7643a5c092c66&mpshare=1&scene=1&srcid=0211JE1STkW1n9dY8NqReW2B)
