@@ -10,3 +10,5 @@ Wolfram 和 MMA
 - [Conrad Wolfram: Teaching kids real math with computers | TED Talk | TED.com](http://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers)
 - [Stephen Wolfram: Computing a theory of all knowledge | TED Talk | TED.com](http://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything)
 - Wolfram Book
+- [forcode: 《一种新科学》(A New Kind of Science)扫描版[PDF] - 雪球](https://xueqiu.com/3167081651/33967367)
+- [如何评价 "A New Kind of Science" 这本书？ - 知乎](https://www.zhihu.com/question/21480477)
